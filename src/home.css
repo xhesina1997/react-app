@@ -1,0 +1,17 @@
+.text-style{
+    font-weight: 500;
+    font-Family: 'Cochin',
+  }
+  .icons{
+      width: 120px;
+      height:120px;
+  }
+  .MuiAppBar-colorPrimary{
+      background-color:#633755 !important;
+  }
+  /* .search-container{
+      width: 50%;
+      margin: auto;
+      margin-top: 20px;
+      
+  } */
