@@ -1,0 +1,20 @@
+.ticketContainer{
+    width: 100%;
+    height:auto;
+    min-height:100px;
+    /* padding:20px; */
+    margin-bottom: 20px;
+
+}
+.created-state{
+    background-color: #f6f6f6;
+}
+.stored-state{
+    background-color: #f48024;
+}
+.distributing-state{
+    background-color: #313d8c;
+}
+.delivered-state{
+    background-color: #118237;
+}
